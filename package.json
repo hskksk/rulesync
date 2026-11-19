@@ -80,10 +80,10 @@
     "pre-commit": "pnpm exec lint-staged"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.27.1",
+    "@modelcontextprotocol/sdk": "1.32.0",
     "@octokit/request-error": "7.1.0",
     "@octokit/rest": "22.0.1",
-    "@toon-format/toon": "2.1.0",
+    "@toon-format/toon": "2.3.1",
     "@valibot/to-json-schema": "1.6.0",
     "commander": "14.0.3",
     "effect": "3.20.0",
@@ -91,11 +91,11 @@
     "fastmcp": "3.34.0",
     "globby": "16.1.1",
     "gray-matter": "4.0.3",
-    "js-yaml": "4.1.1",
+    "js-yaml": "4.3.2",
     "jsonc-parser": "3.3.1",
-    "smol-toml": "1.6.0",
+    "smol-toml": "1.9.0",
     "sury": "10.0.4",
-    "zod": "4.3.6"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@anthropic-ai/claude-agent-sdk": "0.2.79",
@@ -129,7 +129,7 @@
     "typescript": "5.9.3",
     "typescript-eslint": "8.57.1",
     "vitepress": "1.6.4",
-    "vitest": "4.1.0"
+    "vitest": "4.1.11"
   },
   "engines": {
     "node": ">=22.0.0",
